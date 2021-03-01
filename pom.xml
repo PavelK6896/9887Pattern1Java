@@ -18,6 +18,8 @@
         <module>Structural/Bridge</module>
         <module>Behavioral/Command</module>
         <module>Behavioral/TemplateMethod</module>
+        <module>Behavioral/State</module>
+        <module>Behavioral/Observer</module>
     </modules>
 
     <properties>
