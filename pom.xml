@@ -16,6 +16,8 @@
         <module>Creations/Singleton</module>
         <module>Structural/Adapter</module>
         <module>Structural/Bridge</module>
+        <module>Structural/Decorator</module>
+        <module>Structural/Proxy</module>
         <module>Behavioral/Command</module>
         <module>Behavioral/TemplateMethod</module>
         <module>Behavioral/State</module>

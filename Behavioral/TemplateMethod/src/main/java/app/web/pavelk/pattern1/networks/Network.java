@@ -4,7 +4,8 @@ public abstract class Network {
     String userName;
     String password;
 
-    Network() {}
+    Network() {
+    }
 
     /**
      * Публикация данных в любой сети.
@@ -14,7 +15,7 @@ public abstract class Network {
         // проверки использует разные методы.
         if (logIn(this.userName, this.password)) {
             // Отправка данных.
-            boolean result =  sendData(message.getBytes());
+            boolean result = sendData(message.getBytes());
             logOut();
             return result;
         }
@@ -22,6 +23,8 @@ public abstract class Network {
     }
 
     abstract boolean logIn(String userName, String password);
+
     abstract boolean sendData(byte[] data);
+
     abstract void logOut();
 }

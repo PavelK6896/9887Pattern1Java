@@ -15,7 +15,7 @@ public final class Singleton2 {
         if (result != null) {
             return result;
         }
-        synchronized(Singleton2.class) {
+        synchronized (Singleton2.class) {
             if (instance == null) {
                 instance = new Singleton2(value);
             }

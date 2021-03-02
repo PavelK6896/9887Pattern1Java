@@ -1,5 +1,11 @@
 package app.web.pavelk.pattern1;
 
+import app.web.pavelk.pattern1.builders.CarBuilder;
+import app.web.pavelk.pattern1.builders.CarManualBuilder;
+import app.web.pavelk.pattern1.cars.Car;
+import app.web.pavelk.pattern1.cars.Manual;
+import app.web.pavelk.pattern1.director.Director;
+
 public class Demo {
 
     public static void main(String[] args) {

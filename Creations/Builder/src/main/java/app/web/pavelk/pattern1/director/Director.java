@@ -1,5 +1,12 @@
-package app.web.pavelk.pattern1;
+package app.web.pavelk.pattern1.director;
 
+
+import app.web.pavelk.pattern1.builders.Builder;
+import app.web.pavelk.pattern1.cars.CarType;
+import app.web.pavelk.pattern1.components.Engine;
+import app.web.pavelk.pattern1.components.GPSNavigator;
+import app.web.pavelk.pattern1.components.Transmission;
+import app.web.pavelk.pattern1.components.TripComputer;
 
 public class Director {
 

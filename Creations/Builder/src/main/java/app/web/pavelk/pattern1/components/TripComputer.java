@@ -1,4 +1,6 @@
-package app.web.pavelk.pattern1;
+package app.web.pavelk.pattern1.components;
+
+import app.web.pavelk.pattern1.cars.Car;
 
 public class TripComputer {
 

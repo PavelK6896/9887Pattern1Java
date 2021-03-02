@@ -1,4 +1,4 @@
-package app.web.pavelk.pattern1;
+package app.web.pavelk.pattern1.components;
 
 public class GPSNavigator {
     private final String route;
