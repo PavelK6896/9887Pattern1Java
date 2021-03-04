@@ -18,6 +18,7 @@
         <module>Structural/Bridge</module>
         <module>Structural/Decorator</module>
         <module>Structural/Proxy</module>
+        <module>Structural/Composite</module>
         <module>Behavioral/Command</module>
         <module>Behavioral/TemplateMethod</module>
         <module>Behavioral/State</module>
