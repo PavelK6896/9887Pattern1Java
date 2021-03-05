@@ -23,6 +23,7 @@
         <module>Behavioral/TemplateMethod</module>
         <module>Behavioral/State</module>
         <module>Behavioral/Observer</module>
+        <module>Structural/Flyweight</module>
     </modules>
 
     <properties>
