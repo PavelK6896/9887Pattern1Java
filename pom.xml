@@ -14,16 +14,19 @@
         <module>Creations/FactoryMethod</module>
         <module>Creations/Prototype</module>
         <module>Creations/Singleton</module>
+
         <module>Structural/Adapter</module>
         <module>Structural/Bridge</module>
         <module>Structural/Decorator</module>
         <module>Structural/Proxy</module>
         <module>Structural/Composite</module>
+        <module>Structural/Flyweight</module>
+
         <module>Behavioral/Command</module>
         <module>Behavioral/TemplateMethod</module>
         <module>Behavioral/State</module>
         <module>Behavioral/Observer</module>
-        <module>Structural/Flyweight</module>
+        <module>Behavioral/Visitor</module>
     </modules>
 
     <properties>
