@@ -27,6 +27,7 @@
         <module>Behavioral/State</module>
         <module>Behavioral/Observer</module>
         <module>Behavioral/Visitor</module>
+        <module>Strategy</module>
     </modules>
 
     <properties>
