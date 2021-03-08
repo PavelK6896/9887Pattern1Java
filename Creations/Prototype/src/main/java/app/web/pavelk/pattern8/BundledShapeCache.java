@@ -1,4 +1,4 @@
-package app.web.pavelk.pattern1;
+package app.web.pavelk.pattern8;
 
 import java.util.HashMap;
 import java.util.Map;
