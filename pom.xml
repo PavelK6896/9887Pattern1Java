@@ -21,6 +21,7 @@
         <module>Structural/Proxy</module>
         <module>Structural/Composite</module>
         <module>Structural/Flyweight</module>
+        <module>Structural/Facade</module>
 
         <module>Behavioral/Command</module>
         <module>Behavioral/TemplateMethod</module>
