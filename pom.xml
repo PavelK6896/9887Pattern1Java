@@ -31,6 +31,7 @@
         <module>Behavioral/Strategy</module>
         <module>Behavioral/Memento</module>
         <module>Behavioral/ChainOfResponsibility</module>
+        <module>Behavioral/Mediator</module>
     </modules>
 
     <properties>
