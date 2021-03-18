@@ -32,6 +32,7 @@
         <module>Behavioral/Memento</module>
         <module>Behavioral/ChainOfResponsibility</module>
         <module>Behavioral/Mediator</module>
+        <module>Behavioral/Iterator</module>
     </modules>
 
     <properties>
