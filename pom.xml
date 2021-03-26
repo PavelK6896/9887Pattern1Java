@@ -34,6 +34,7 @@
         <module>Behavioral/Mediator</module>
         <module>Behavioral/Iterator</module>
         <module>Behavioral/NullObject</module>
+        <module>Behavioral/Interpreter</module>
     </modules>
 
     <properties>
