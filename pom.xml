@@ -14,6 +14,7 @@
         <module>Creations/FactoryMethod</module>
         <module>Creations/Prototype</module>
         <module>Creations/Singleton</module>
+        <module>Creations/ObjectPool</module>
 
         <module>Structural/Adapter</module>
         <module>Structural/Bridge</module>
